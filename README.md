@@ -1,5 +1,5 @@
 # jakartaee-rest-quickstart-archetype
-Jakarta EE 8 REST application quick start template.
+Jakarta EE REST Application Quick Start Template.
 
 ## Requirements
 
