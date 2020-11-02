@@ -17,13 +17,6 @@
       <version>8.0.0</version>
       <scope>provided</scope>
     </dependency>
-    <!-- dependency>
-      <groupId>org.eclipse.microprofile</groupId>
-      <artifactId>microprofile</artifactId>
-      <version>3.2</version>
-      <type>pom</type>
-      <scope>provided</scope>
-    </dependency -->
   </dependencies>
   <build>
     <finalName>${artifactId}</finalName>
@@ -34,7 +27,7 @@
       </plugin>
       <plugin>
         <artifactId>maven-war-plugin</artifactId>
-        <version>3.2.3</version>
+        <version>3.3.1</version>
       </plugin>
     </plugins>
   </build>
